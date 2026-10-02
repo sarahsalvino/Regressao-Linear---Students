@@ -87,6 +87,10 @@ Entender quais variáveis como consumo de álcool, apoio familiar, reprovações
 
 O modelo consegue explicar **86,3%** da variação nas notas finais, errando em média apenas **0,74 pontos** numa escala de 0 a 20.
 
+
+<img width="1193" height="413" alt="image" src="https://github.com/user-attachments/assets/21aaecbc-ed57-405c-8e13-697c088d098f" />
+
+
 ---
 
 ## Tecnologias Utilizadas
